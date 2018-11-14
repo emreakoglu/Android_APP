@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Harita</string>
+    <string name="title_activity_maps">Harita</string>
+    <string name="webServiceUrl">http://192.168.1.2:8080/KDemo/myproject/mapping</string>
+    <!-- <integer name="google_play_services_version">9452000</integer> -->
+    <!--<integer name="google_play_services_version">8487000</integer>-->
+    <integer name="google_play_services_version">10298000</integer>
+</resources>
